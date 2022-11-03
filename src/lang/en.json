@@ -1,0 +1,30 @@
+{
+	"MENU_ABOUT": null,
+	"MENU_PREFERENCES": "Preferences...",
+	"MENU_HIDE": null,
+	"MENU_HIDEOTHERS": null,
+	"MENU_QUIT": null,
+
+	"MENU_SCREENSHOT": "Screenshot",
+	"MENU_RELOAD": null,
+	"MENU_FORCERELOAD": null,
+	"MENU_ACTUALSIZE": "Actual Size",
+	"MENU_ZOOMIN": "Zoom In",
+	"MENU_ZOOMOUT": "Zoom Out",
+	"MENU_TOGGLEFULLSCREEN": null,
+	"MENU_VIEWMENU": null,
+
+	"MENU_GOBACK": "Back",
+	"MENU_GOFORWARD": "Forward",
+	"MENU_GOHOME": "Home",
+	"MENU_GOGASHA": "Gasha",
+	"MENU_GOIDOLPORTAL": "Idol",
+	"MENU_GOMISSION": "Missions",
+	"MENU_GOBUSINESS": "Work",
+	"MENU_GOPRODUCE": "Producing",
+	"MENU_GOFES": "Fes",
+	"MENU_GOMENU": "Go",
+
+	"MENU_MINIMIZE": null,
+	"MENU_WINDOWMENU": "Window"
+}

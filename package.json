@@ -1,0 +1,32 @@
+{
+  "name": "SCApp",
+  "version": "0.0.1",
+  "description": "Idol raising simulation game.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "webpack --stats-error-details",
+    "clean": "rimraf dist/",
+    "launch": "electron .",
+    "watch": "webpack --watch",
+    "prestart": "npm run rebuild",
+    "start": "npm run launch",
+    "prerebuild": "npm run clean",
+    "rebuild": "npm run build",
+    "prerewatch": "npm run clean",
+    "rewatch": "npm run watch"
+  },
+  "author": "NAYOTO.",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/stats.js": "^0.17.0",
+    "electron": "^21.2.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "rimraf": "^3.0.2",
+    "ts-loader": "^9.4.1",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "stats.js": "^0.17.0"
+  }
+}

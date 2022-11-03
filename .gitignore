@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Build Files
+dist/
+
+# Invisible Files
+.DS_Store
+Thumbs.db

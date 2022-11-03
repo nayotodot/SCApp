@@ -1,0 +1,30 @@
+{
+	"MENU_ABOUT": "[AppName] について",
+	"MENU_PREFERENCES": "環境設定...",
+	"MENU_HIDE": "[AppName] を非表示",
+	"MENU_HIDEOTHERS": "ほかを非表示",
+	"MENU_QUIT": "[AppName] を終了",
+
+	"MENU_SCREENSHOT": "スクリーンショット",
+	"MENU_RELOAD": "再度読み込み",
+	"MENU_FORCERELOAD": "キャッシュクリアして再度読み込み",
+	"MENU_ACTUALSIZE": "実際のサイズ",
+	"MENU_ZOOMIN": "拡大",
+	"MENU_ZOOMOUT": "縮小",
+	"MENU_TOGGLEFULLSCREEN": "フルスクリーン",
+	"MENU_VIEWMENU": "表示",
+
+	"MENU_GOBACK": "戻る",
+	"MENU_GOFORWARD": "進む",
+	"MENU_GOHOME": "ホーム",
+	"MENU_GOGASHA": "ガシャ",
+	"MENU_GOIDOLPORTAL": "アイドル",
+	"MENU_GOMISSION": "ミッション",
+	"MENU_GOBUSINESS": "営業",
+	"MENU_GOPRODUCE": "プロデュース",
+	"MENU_GOFES": "フェス",
+	"MENU_GOMENU": "移動",
+
+	"MENU_MINIMIZE": "しまう",
+	"MENU_WINDOWMENU": "ウィンドウ"
+}
